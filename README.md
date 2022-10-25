@@ -1,6 +1,9 @@
 # list_task
 
-A new Flutter project.
+Este app tem a finalidade de ajudar o usuário a criar uma lista de tarefas ele foi desenvolvido com flutter.
+
+
+![Screenshot](/assets/images/screenshot/01.png?raw=true "Icon app")
 
 ## Getting Started
 
